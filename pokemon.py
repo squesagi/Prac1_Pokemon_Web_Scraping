@@ -11,7 +11,7 @@ urlsub="https://pokemon.fandom.com"
 r=requests.get(url)
 soup=BeautifulSoup(r.content,"lxml")
 
-#Obtenim el títol de la pàgina
+#Obtenim el títol de la web
 title = soup.title.string
 title=title.split('|')[0]
 title=[title]
@@ -102,6 +102,6 @@ for i in trs:
    
         
 #3.Les dades de descripció les agafarem de les subpàgines de cada item
-df=pd.DataFrame(objectes) #Creem el Dataframe
-df.rename(columns={0:'Id',1:'Nombre',2:'Tipo 1',3:'Tipo 2',4:'Generación',5:'Descripción'},inplace=True)
-df.to_csv("Llista_Pokemon.csv",index=False,encoding='utf-8')
+pokemon_atributs_coleccio=pd.DataFrame(objectes) #Creem el Dataframe
+pokemon_atributs_coleccio.rename(columns={0:'Id',1:'Nombre',2:'Tipo 1',3:'Tipo 2',4:'Generación',5:'Descripción'},inplace=True)
+pokemon_atributs_coleccio.to_csv("Llista_Pokemon.csv",index=False,encoding='utf-8')
