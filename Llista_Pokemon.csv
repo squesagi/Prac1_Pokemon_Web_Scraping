@@ -1,0 +1,963 @@
+Id;Nombre;Tipo 1;Tipo 2;Generación;Descripción
+1;Bulbasaur;Tipo planta;Tipo veneno;Primera generación;"Bulbasaur es un Pokémon cuadrúpedo de color verde y manchas más oscuras de formas geométricas. Su cabeza representa cerca de un tercio de su cuerpo. En su frente se ubican tres manchas que pueden cambiar dependiendo del ejemplar. Tiene orejas pequeñas y puntiagudas. Sus ojos son grandes y de color rojo. Las patas son cortas con tres garras cada una. Este Pokémon tiene plantado un bulbo en el lomo desde que nace. Esta semilla crece y se desarrolla a lo largo del ciclo de vida de Bulbasaur a medida que suceden sus evoluciones. El bulbo absorbe y almacena la energía solar que Bulbasaur necesita para crecer. Dicen que cuanta más luz consuma la semilla, más olor producirá cuando se abra. Por otro lado, gracias a los nutrientes que el bulbo almacena, puede pasar varios días sin comer.
+"
+2;Ivysaur;Tipo planta;Tipo veneno;Primera generación;"Ivysaur posee un color azulado más vivo que su preevolución Bulbasaur. Además, sus ojos adquieren un leve tono violeta y sus pupilas se vuelven negras. El bulbo que había en la espalda de Bulbasaur se convirte en una flor, la cual aún permanece cerrada. Esta flor es usada por Ivysaur de la misma forma que Bulbasaur empleaba su bulbo para la mayoría de sus ataques. La flor crece con la exposición directa al sol, forzando a Ivysaur a caminar a todas horas para conseguir que la luz sea absorbida plenamente. Inversamente a la función del bulbo de Bulbasaur que lo nutría, ahora parece que la flor toma la energía de Ivysaur. De la flor emana un suave y agradable aroma, que con frecuencia atrae a personas y a otros Pokémon.
+"
+3;Venusaur;Tipo planta;Tipo veneno;Primera generación;"Su nombre es una combinación de las palabras Venus (una flor parecida a la planta que le crece desde su etapa como Bulbasaur) y saur, que viene del griego saurus, que quiere decir reptil o lagarto y es el equivalente a la terminación -saurio en los nombres de muchos dinosaurios. Así, Venusaur podría traducirse como Venusaurio.
+"
+4;Charmander;Tipo fuego; - ;Primera generación;"Charmander es un Pokémon de tipo fuego introducido en la primera generación. Es uno de los Pokémon iniciales que pueden elegir los entrenadores que empiezan su aventura en la región Kanto, junto a Bulbasaur y Squirtle, excepto en Pokémon Amarillo y Pokémon: Let's Go, Pikachu! y Pokémon: Let's Go, Eevee!
+"
+5;Charmeleon;Tipo fuego; - ;Primera generación;"Charmeleon es un Pokémon de tipo fuego introducido en la primera generación. Es la evolución de Charmander, uno de los Pokémon iniciales de los entrenadores que comienzan su aventura en la región de Kanto.
+"
+6;Charizard;Tipo fuego;Tipo volador;Primera generación;"Su nombre es una contracción de las palabras inglesas char (carbonizar, quemar, incinerar) y lizard (lagarto).
+"
+7;Squirtle;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras en inglés squirt (disparar un chorro de agua) y turtle (tortuga). 
+"
+8;Wartortle;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras en inglés war (guerra) y turtle (tortuga).
+"
+9;Blastoise;Tipo agua; - ;Primera generación;"Su nombre es una combinación de las palabras en inglés blast (explosión o ráfaga) y tortoise (tortuga terrestre).
+"
+10;Caterpie;Tipo bicho; - ;Primera generación;"Su nombre deriva del inglés caterpillar (oruga, animal con el que comparte algunos rasgos).
+"
+11;Metapod;Tipo bicho; - ;Primera generación;"Su nombre proviene de metamorfosis, proceso de transformación de la oruga en mariposa, o bien ""metal"" por su dura coraza y pod, en inglés, vaina o cápsula, es decir, un caparazón que envuelve a la oruga durante su proceso de metamorfosis.
+"
+12;Butterfree;Tipo bicho;Tipo volador;Primera generación;"Su nombre es el resultado de la combinación de las palabras butterfly (mariposa) y free (libre).
+"
+13;Weedle;Tipo bicho;Tipo veneno;Primera generación;"Su nombre proviene de ""wee"", ""pequeñito"" en inglés (aunque esta palabra solo adopta este significado en Escocia e Irlanda, teniendo en otros países un significado diferente) y ""needle"", ""aguja"" en inglés.
+"
+14;Kakuna;Tipo bicho;Tipo veneno;Primera generación;"Su nombre, tanto japonés como inglés, proviene del inglés cocoon (crisálida).
+"
+15;Beedrill;Tipo bicho;Tipo veneno;Primera generación;"Su nombre proviene de la unión de las palabras en inglés bee (abeja) y drill (taladro), en alusión a su forma de abeja y a los aguijones con forma de taladro que tiene.
+"
+16;Pidgey;Tipo normal;Tipo volador;Primera generación;"El nombre de Pidgey proviene de la palabra inglesa pigeon (paloma), la ""y"" puede indicar su miniatura.
+O también puede derivar de la combinación de las palabras Pigeon (Paloma) y Budgie (Periquito, Canario).
+"
+17;Pidgeotto;Tipo normal;Tipo volador;Primera generación;"Su nombre proviene de Pigeon, que significa paloma. Otto puede llegar a ser por Otto Finsch, que fue un naturalista y explorador alemán amante de las aves, aunque es sólo una especulación.
+"
+18;Pidgeot;Tipo normal;Tipo volador;Primera generación;"Su nombre proviene de las palabras inglesas pigeon (paloma) y jet (jet).
+"
+19;Rattata;Tipo normal; - ;Primera generación;"Rattata es un Pokémon extremadamente común y se reproduce muy rápido, por lo que el contacto visual con uno de ellos indica la presencia de más de 40 de ellos en el área.
+"
+20;Raticate;Tipo normal; - ;Primera generación;"Raticate se asemeja a una rata. Tiene la piel marrón clara y una larga cola. Sus colmillos son grandes, duros y firmes, y le permiten roer cualquier cosa. Nunca le dejan de crecer, por lo tanto para reducirlos y mantenerlos afilados, roe rocas, troncos y paredes de algunos edificios. Los mejores ataques que Raticate puede aprender son aprovechando sus grandes colmillos, como su clásico hipercolmillo.
+"
+21;Spearow;Tipo normal;Tipo volador;Primera generación;"Su nombre podría ser una combinación de las palabras en inglés spear (lanza) y sparrow (gorrión), o quizás de row (bronca) por su fuerte carácter, como puede apreciarse en el anime.
+"
+22;Fearow;Tipo normal;Tipo volador;Primera generación;"Su nombre proviene de las palabras en inglés fear (miedo) y sparrow (gorrión). También hay posibilidad de que su nombre provenga de fear (miedo) y arrow (flecha o lanza) por la forma de su pico o de row (bronca) por su fuerte carácter, como puede apreciarse en el anime.
+"
+23;Ekans;Tipo veneno; - ;Primera generación;"Su nombre es un anagrama de la palabra snake (serpiente en inglés) escrita al revés.
+"
+24;Arbok;Tipo veneno; - ;Primera generación;"Su nombre es un anagrama de la palabra inglesa kobra (cobra) escrita al revés.
+"
+25;Pikachu;Tipo eléctrico; - ;Primera generación;"Su nombre proviene de la unión de las palabras en japonés pika, que es el nombre de un lagomorfo (el orden al que pertenecen conejos y liebres) de origen en Norteamérica y Asia, los ochotónidos o de pikapika, la onomatopeya japonesa que describe las chispas eléctricas, y chuchu, onomatopeya japonesa del sonido producido por un un ratón, para darle un sonido tierno. 
+"
+26;Raichu;Tipo eléctrico; - ;Primera generación;"Su nombre procede del japonés ? rai (trueno) y ?????? ch?ch?, onomatopeya japonesa del sonido de un ratón.
+"
+27;Sandshrew;Tipo tierra; - ;Primera generación;"Pese a su nombre, la apariencia de Sandshrew es más semejante a la de un armadillo o un pangolín que a la de una musaraña. Es una criatura pequeña, amarilla y de apariencia similar a un roedor, cubierto de escamas duras y con garras afiladas. Sus ojos son grandes y negros.
+"
+28;Sandslash;Tipo tierra; - ;Primera generación;"Su nombre proviene del inglés sand (arena) y slash (acuchillar), principalmente por las cuchillas que ha desarrollado en el extremo de sus garras al evolucionar.
+"
+29;Nidoran?;Tipo veneno; - ;Primera generación;"Su nombre deriva de la palabra japonesa para gemelos nido, relacionable al hecho de que fueron los primeros Pokémon en diferenciarse por género. Puede deberse también a la pronunciación japonesa de needle (que significa aguja o pincho).
+"
+30;Nidorina;Tipo veneno; - ;Primera generación;"Su nombre deriva de la palabra japonesa para gemelos nido aunque puede deberse también a la pronunciación japonesa de needle (aguja/pincho), y la palabra rino posiblemente refiriéndose a un rinoceronte, palabra con la cual se identifica el género de este Pokémon mediante la ""A"", diferenciándola de Nidorino.
+"
+31;Nidoqueen;Tipo veneno;Tipo tierra;Primera generación;"Nido deriva de la palabra japonesa nido que significa gemelo (o también puede deberse a la pronunciación japonesa de needle que en inglés es aguja o pincho), haciendo referencia a las dos líneas evolutivas que utilizan esta palabra, diferenciadas por su género junto con Nidoking; y la palabra inglesa queen que significa reina, para determinar que es una forma evolutiva final y mantener la diferencia de género. Otra posibilidad es que provenga de lo anteriormente dicho, y de doro (lodo en japonés) en referencia al Tipo tierra, tipo que posee ella.
+"
+32;Nidoran?;Tipo veneno; - ;Primera generación;"Su nombre deriva de la palabra japonesa para gemelos nido, relacionado con el hecho de que fueron los primeros Pokémon en diferenciarse por género. Puede deberse también a la pronunciación japonesa de needle (aguja/pincho). Otra posibilidad es que provenga de lo anteriormente dicho, y de doro (lodo en japonés) en referencia al tipo tierra, que no posee él, pero sí su evolución final: Nidoking.
+"
+33;Nidorino;Tipo veneno; - ;Primera generación;"Su nombre deriva de la palabra japonesa para gemelos nido aunque puede deberse también a la pronunciación japonesa de needle (aguja o pincho), y la palabra rino posiblemente refiriéndose a un rinoceronte (cuya característica en Nidorino es el cuerno y los pliegues de su piel), palabra con la cual se identifica el género de este Pokémon mediante la ""O"", diferenciándola de su contraparte Nidorina.
+"
+34;Nidoking;Tipo veneno;Tipo tierra;Primera generación;"Nido deriva de la palabra japonesa nido que significa gemelo, haciendo referencia a las dos líneas evolutivas que utilizan esta palabra, diferenciadas por su género junto con Nidoqueen, o también puede deberse a la pronunciación japonesa de needle que en inglés es aguja o pincho; y la palabra inglesa king que significa rey, para determinar que es una forma evolutiva final y mantener la diferencia de género. Otra posibilidad es que provenga de lo anteriormente dicho, y de doro (lodo en japonés) en referencia al tipo tierra que posee.
+"
+35;Clefairy;Tipo hada; - ;Primera generación;"Su nombre proviene de clef (clave musical, en referencia a la clave de sol o la de fa) y de fairy (hada en inglés).
+"
+36;Clefable;Tipo hada; - ;Primera generación;"Su nombre en japonés hace referencia a un animal mitológico llamado Pixie, muy parecido a las hadas.
+"
+37;Vulpix;Tipo fuego; - ;Primera generación;Huevo de Vulpix en el anime.
+38;Ninetales;Tipo fuego; - ;Primera generación;"Ninetales es un Pokémon muy parecido a un zorro albino, su pelaje es de color dorado y las puntas de sus colas de un color amarillo mostaza o naranja, que al paso de los años va cambiando de color. 
+"
+39;Jigglypuff;Tipo normal;Tipo hada;Primera generación;"Su nombre es una contracción de las palabras en inglés jingle (canción, o verbo cantar) y puff (onomatopeya utilizada en Norteamérica normalmente referida a quien se queda dormido de pie, que también significa soplar, lo cual podría ser una referencia a cuando se hincha y luego suelta el aire para desinflarse).
+"
+40;Wigglytuff;Tipo normal;Tipo hada;Primera generación;"Probablemente su nombre proviene de la fusión de las palabras en inglés wiggly (ondulado) y puff (que es relativo a dormirse de pie).
+"
+41;Zubat;Tipo veneno;Tipo volador;Primera generación;"Su nombre proviene de Zu (una divinidad sumeria con forma de pájaro) y bat (murciélago en inglés). Por otra parte, su nombre en francés, Nosferapti deriva de Nosferatu, palabra de origen literario que supuestamente significa ""vampiro"". Esto hace alusión a la creencia popular de que los vampiros se convierten en murciélagos.
+"
+42;Golbat;Tipo veneno;Tipo volador;Primera generación;"Su nombre proviene de las palabras en inglés Ghoul (Gul, un demonio necrófago) y bat (murciélago). Su nombre en francés proviene de Nosferatu, un vampiro de ficción.
+"
+43;Oddish;Tipo planta;Tipo veneno;Primera generación;"Su nombre proviene de las palabras inglesas odd (raro o extraño) y radish (rábano). Su nombre japonés viene de ? nazo (misteriosa) y ? kusa (hierba), dando lugar a ??? nazo no kusa (hierba misteriosa).
+"
+44;Gloom;Tipo planta;Tipo veneno;Primera generación;"El nombre de éste Pokémon se debe a la palabra inglesa gloom que significa triste, gris, sombrío, por su expresión, la cual parece imitar los sentimientos anteriormente dichos. También puede ser una conjunción de las palabras inglesas gloom y bloom, ésta última significa ""florecer"", ya que Gloom sería la forma ""florecida"" de Oddish, el cual era una hierba y ahora una flor.
+"
+45;Vileplume;Tipo planta;Tipo veneno;Primera generación;"En inglés, su nombre proviene de las palabras vile (vil) y plume (penacho, penacho tercera acepción) o de ""vileplume"", nombre de la planta en la que está basado.
+"
+46;Paras;Tipo bicho;Tipo planta;Primera generación;"Su nombre es un diminutivo de la palabra en inglés parasite, que significa parásito.
+"
+47;Parasect;Tipo bicho;Tipo planta;Primera generación;"Su nombre proviene de parásito (en referencia al hongo parásito de su espalda) y de la palabra inglesa insect (insecto).
+"
+48;Venonat;Tipo bicho;Tipo veneno;Primera generación;"Su nombre proviene de las palabras en inglés venom (veneno) y gnat (nombre coloquial usado para referirse a los mosquitos).
+"
+49;Venomoth;Tipo bicho;Tipo veneno;Primera generación;"Su nombre, que significa polilla venenosa, proviene de las palabras venom (veneno) y moth (polilla).
+Su nombre japonés, Morphon viene de la subfamilia de mariposas, Morphinae
+"
+50;Diglett;Tipo tierra; - ;Primera generación;"Diglett es un Pokémon con forma de topo, pasa la mayor parte de su vida bajo tierra. Su cuerpo es de color marrón y tiene forma de dedo. A pesar de no superar los 20 cm de altura, si se juntan en grupo pueden ser muy destructivos, arrasando presas y construcciones en los bosques. Tiene un carácter bastante amigable, aunque si se molesta puede demostrar todo su poder. Los Diglett suelen habitar en madrigueras que cavan ellos mismos bajo tierra, aunque en ocasiones suelen salir a la superficie y moverse por encima de esta.
+"
+51;Dugtrio;Tipo tierra; - ;Primera generación;"La biología de este Pokémon no está nada clara. Algunas fuentes afirman que es un ser que tiene tres cabezas, mientras en otros lados se especifica que son tres hermanos Diglett que cavan juntos. No es posible verificar una u otra porque al igual que con su preevolución, Diglett, no se conoce en absoluto cómo aparecen estos Pokémon bajo tierra. También se desconoce la función de los órganos que tienen en medio de la cara, si bien se presupone que son hocicos o narices que le ayudan a cavar.
+"
+52;Meowth;Tipo normal; - ;Primera generación;"Es un Pokémon con apariencia de gato, y está basado en el Maneki-neko (gato de la suerte japonés). En su cabeza porta un amuleto en forma de moneda. Se trata de una antigua moneda japonesa hecha de oro llamada Koban, símbolo de la buena fortuna en Japón. De ahí aparece su principal ataque llamado día de pago, que consiste en lanzar muchas monedas al oponente que aparentemente salen de su cabeza. También es reconocido por tener un color con un tono parecido al beige y un tono marrón al final de cada pata trasera y cola, incluso obtiene tono negro en cada oreja. A pesar de tener las características de los gatos, los Meowth son capaces de caminar erguidos como los humanos, si bien se sabe de manadas de Meowth que no tienen esta capacidad al caminar a cuatro patas.
+"
+53;Persian;Tipo normal; - ;Primera generación;"Su nombre proviene simplemente de una raza de gato en la que podría estar inspirado, persian cat (gato persa en español), aún así, no comparten gran parecido. Más bien, tiene mayor parecido a un felino salvaje (puma) o a un siamés. El origen también podría estar en purr (ronroneo, sonido de satisfacción que produce un gato cuando se siente relajado y a gusto). También está la posibilidad de que su nombre sea simplemente la palabra Persian (Pérsico), que es uno de los nombres dados por los griegos a la diosa persa Anahita (llamada también Anaitis por los griegos), y al culto sincrético entre esta y la diosa griega Ártemis. Su nombre japonés es igual.
+"
+54;Psyduck;Tipo agua; - ;Primera generación;"Su nombre proviene de la combinación de palabras en inglés psychic (psíquico) y duck (pato).
+"
+55;Golduck;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras gold, que significa oro, ya que en Japón el oro es considerado como un metal que atrae la suerte y aumenta las capacidades psíquicas, y duck, que significa pato.
+Su nombre francés, Akwakwak, proviene de la palabra aqua (agua) y la onomatopeya del graznido de un pato, quack.
+"
+56;Mankey;Tipo lucha; - ;Primera generación;"Su nombre proviene de las palabras en inglés man (hombre) y monkey (mono). También proviene de la palabra manky, que significa inferior, sucio, despreciable, que son términos degradantes. Otra posibilidad es la combinación de mad (loco) con monkey (mono), por su agresiva y contraria personalidad. O simplemente una alteración de la palabra Monkey (Mono). Su nombre japonés es igual.
+"
+57;Primeape;Tipo lucha; - ;Primera generación;"Su nombre proviene de la palabra primate (primate en inglés) y ape (simio en inglés), está basado en los simios.
+"
+58;Growlithe;Tipo fuego; - ;Primera generación;"Su nombre proviene de las palabras en inglés growl (gruñido) y lithe (ágil, flexible).
+"
+59;Arcanine;Tipo fuego; - ;Primera generación;"Su nombre está formado por la unión de las palabras en inglés arcane (arcano), y canine (canino, familia a la que pertenecen los perros). Su nombre japonés, ????? Windy, procede de esa misma palaba en inglés. Esta significa ""ventoso"", haciendo referencia a la gran velocidad de este Pokémon, comparable con la rapidez de los grandes vientos.
+"
+60;Poliwag;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras en inglés polliwog (palabra en desuso para referirse a renacuajo) y wag (meneo, que se podría referir a su cola).
+"
+61;Poliwhirl;Tipo agua; - ;Primera generación;"Su nombre podría venir de la unión de las palabras en inglés polliwog (palabra incorrecta en desuso para referirse a renacuajo) y whirl (remolino, por el dibujo de su estómago).
+"
+62;Poliwrath;Tipo agua;Tipo lucha;Primera generación;"Cuando Poliwhirl evoluciona en Poliwrath su semblante cambia totalmente, ganando el subtipo lucha cosa que lo hace mucho más intimidante. Un Pokémon que se caracteriza por su alto rendimiento físico, capaz de nadar mares ida y vuelta sin agotarse, el luchador perfecto ya que un practicante de artes marciales debe entrenar mucho para pulir sus habilidades. Además de poseer músculos extremadamente desarrollados, para golpear también posee una piel dura como el acero que le permite soportar muchos ataques. A pesar de su apariencia corpulenta es un excelente nadador, capaz de moverse en las tormentas más irascibles.
+"
+63;Abra;Tipo psíquico; - ;Primera generación;"Su nombre junto con el de su evolución Kadabra forma la palabra abracadabra, empleada por varios  magos en literatura.
+"
+64;Kadabra;Tipo psíquico; - ;Primera generación;"Su nombre junto con el de su preevolución Abra forma la palabra abracadabra, empleada por magos.
+El nombre en japonés puede venir de Uri Geller mentalista famoso en los 80 que con sus poderes mentales podía, entre otras cosas, doblar cucharillas sin tocarlas (de ahí vendrían las cucharas que llevan tanto Kadabra como su evolución Alakazam).
+"
+65;Alakazam;Tipo psíquico; - ;Primera generación;"Al igual que Abra y de Kadabra, Alakazam es una palabra para hechizos muy utilizada. 
+"
+66;Machop;Tipo lucha; - ;Primera generación;"Su nombre proviene de las palabras  macho (palabra en español que se utiliza para referirse a animales masculinos, utilizada por los luchadores de lucha libre mexicana para demostrar su masculinidad y fuerza) y chop (tajo, movimiento de karate). También puede venir de match (combate) y chop.
+"
+67;Machoke;Tipo lucha; - ;Primera generación;"Machoke proviene de las palabras macho (fortachón o varonil) y choke, que es una técnica de lucha libre.
+"
+68;Machamp;Tipo lucha; - ;Primera generación;"Su nombre es un acrónimo de las palabras macho y champion (campeón en inglés).
+"
+69;Bellsprout;Tipo planta;Tipo veneno;Primera generación;"El nombre viene de las palabras en inglés bell (campana) y sprout (brote).
+"
+70;Weepinbell;Tipo planta;Tipo veneno;Primera generación;"Su nombre proviene de la combinación de palabras weeping willows (Sauce llorón, seguramente por estar inclinado hacia abajo, como sus hojas) y bell (campana, seguramente por la forma de su flor).
+"
+71;Victreebel;Tipo planta;Tipo veneno;Primera generación;"Victreebel es una combinación de las palabras en inglés vicious (vicioso, cruel o perverso) como se muestra en el anime, tree (árbol) y bell (campana, por su forma). También, si nos guiamos por el sonido del nombre se parece bastante a ""Big Tree Bell"", es decir, ""Gran Árbol Campana"".
+"
+72;Tentacool;Tipo agua;Tipo veneno;Primera generación;"Su nombre proviene de la combinación de palabras en inglés tentacle (tentáculo) y cool (del coloquial guay, o también podría ser una variación de cold, posiblemente en referencia a su carácter, si comparamos con el nombre de su evolución, Tentacruel) o simplemente una manera de decir tentacle (tentáculo).
+"
+73;Tentacruel;Tipo agua;Tipo veneno;Primera generación;"Su nombre proviene de la combinación de las palabras inglesas tentacle (tentáculos) y cruel (cruel), por su mirada y carácter.
+"
+74;Geodude;Tipo roca;Tipo tierra;Primera generación;"Su nombre está formado por la combinación de las palabras geo (tierra en griego) y dude (jerga de registro coloquial de la palabra tipo con referencia a alguien), también podria venir de la palabra ""geode"" (roca generalmente hueca en la que dentro de ella se pueden encontrar minerales). 
+"
+75;Graveler;Tipo roca;Tipo tierra;Primera generación;"Su nombre solo viene de la palabra en inglés gravel (grava) y la terminación -er, equivalente al sufijo español -ante.
+Su nombre en francés puede provenir de gravier (grava) y avalanche (avalancha). Aunque también podría provenir de launch (lanzamiento).
+"
+76;Golem;Tipo roca;Tipo tierra;Primera generación;"Debe su nombre a un ser de la mitología. Las leyendas de la edad media cuentan que los Golem, fabricados a partir de materia inanimada, cobraban vida cuando alguien les introducía un pergamino con una orden por la boca. Su nombre en francés, Grolem, viene de las palabras gros (gordo) y golem, el ser mitológico mencionado anteriormente.
+"
+77;Ponyta;Tipo fuego; - ;Primera generación;"Su nombre viene de la palabra pony (pequeño caballo) y del principio de la palabra tail (cola), por destacar su cola de fuego.
+"
+78;Rapidash;Tipo fuego; - ;Primera generación;"El nombre de Rapidash proviene de la unión de las palabras inglesas rapid (rápido), ash (ceniza) y dash (ir deprisa).
+"
+79;Slowpoke;Tipo agua;Tipo psíquico;Primera generación;"Su nombre viene directamente de la palabra en inglés slowpoke, que se usa para decir que una persona es lenta de movimientos o alguien que es torpe.
+O posiblemente de la combinación de las palabras slow (lento) y Pokémon.
+"
+80;Slowbro;Tipo agua;Tipo psíquico;Primera generación;"Su nombre proviene de las palabras inglesas slow (lento) y brother (hermano), haciendo referencia al Shellder que lleva en la cola del cual ya es imposible separar.
+"
+81;Magnemite;Tipo eléctrico;Tipo acero;Primera generación;"Su nombre viene de Magnet (imán en inglés), y  emit, emitir en inglés. En referencia a que emite magnetismo.
+"
+82;Magneton;Tipo eléctrico;Tipo acero;Primera generación;"Su nombre puede venir de ""magnetron"" (un tubo eléctrico) y ton (tonelada). O también puede derivarse de ""Magnet"" (""imán"" en inglés) y el mismo ""Ton"".
+"
+83;Farfetch'd;Tipo normal;Tipo volador;Primera generación;"Su nombre, Farfetch'd, proviene de la palabra inglesa farfetched (inverosímil, exagerado), haciendo referencia a que, a pesar de que es un Pokémon raro y considerado valioso en las primeras generaciones (sólo se puede conseguir por intercambio), no tiene demasiado valor en el combate y no evoluciona.
+"
+84;Doduo;Tipo normal;Tipo volador;Primera generación;"Su nombre proviene de las palabras Dodo (un ave ya extinta que no podía volar) y dúo (de 2), por sus dos cabezas.
+"
+85;Dodrio;Tipo normal;Tipo volador;Primera generación;"Su nombre proviene de las palabras Dodo (un ave ya extinta) y trío (de 3), por sus tres cabezas.
+"
+86;Seel;Tipo agua; - ;Primera generación;"Su nombre proviene de la palabra en inglés seal (foca), que se pronuncia igual que Seel.
+"
+87;Dewgong;Tipo agua;Tipo hielo;Primera generación;"Su nombre viene de las palabras inglesas dew que significa rocío y dugong que significa dugongo, un pariente del manatí que habita en aguas tropicales; no obstante, Dewgong está basado en un León Marino o Lobo Marino, especie que habita desde zonas cálidas hasta lugares con temperaturas más bajas. Por tanto, se puede decir que, por etimología, morfología y biología, Dewgong es una especie de combinación entre un León Marino y un Manatí.
+En japonés, su nombre, jugon, es una alteración de la palabra dugong.
+"
+88;Grimer;Tipo veneno; - ;Primera generación;"Grimer nace de lodo alterado al filtrarse en el agua los rayos X reflejados por la luna. Aparece en zonas asquerosas. Crece y se alimenta de sustancias de lo más desagradables, absorbiendo los residuos tóxicos de las fábricas.
+Esta hecho de cualquier tipo de desecho, de los cuales se alimenta. Suele vivir en lugares contaminados o en pantanos. Viven en grandes grupos, liderados por su evolución, Muk.
+"
+89;Muk;Tipo veneno; - ;Primera generación;Muk en su hábitat natural.
+90;Shellder;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras inglesas shell (concha), shield (escudo) y shelter (refugio).
+"
+91;Cloyster;Tipo agua;Tipo hielo;Primera generación;"Su nombre procede de una combinación de las palabras inglesas cloister (proteger o aislar), o de clam (almeja) y oyster (ostra).
+"
+92;Gastly;Tipo fantasma;Tipo veneno;Primera generación;"Está hecho de una masa negra gaseosa con un aura de gas violeta a su alrededor la cual es venenosa y asfixiaría a la mayoría de mortales. Gastly se asemeja al cuerpo de un  Hitodama (término del folclore japonés que hace referencia a la aparición de las almas cuando abandonan el cuerpo antes de ir al otro mundo). Presenta dos grandes ojos y una boca, pero se desconoce si Gastly bebe o se alimenta de alguna cosa. Debe tener cuidado con las corrientes de viento, que pueden arrastrar su cuerpo de gas. Por ello no se le suele ver al aire libre.
+"
+93;Haunter;Tipo fantasma;Tipo veneno;Primera generación;"Haunter es un Pokémon que tiene manos a pesar de no tener brazos. Está compuesto por gas y es por eso que flota. Es de color morado y por su fisiología puede atravesar objetos sólidos.
+"
+94;Gengar;Tipo fantasma;Tipo veneno;Primera generación;"Gengar esta basado en el concepto del doppelgänger y en la gente sombra.
+"
+95;Onix;Tipo roca;Tipo tierra;Primera generación;"Su nombre viene de la roca mineral semipreciosa del mismo nombre: Ónix.
+"
+96;Drowzee;Tipo psíquico; - ;Primera generación;"Drowzee proviene de la palabra inglesa drowsy, que formaría parte de la expresión to make drowsy, adormecer.
+"
+97;Hypno;Tipo psíquico; - ;Primera generación;"Su nombre proviene de la palabra griega ????? (hypnos) que significa dormir, en referencia a que puede hacer dormir por medio de la hipnosis con su péndulo.
+También puede tener un corto origen en la palabra ""Hipnotizar"", que es lo que realiza con su péndulo.
+"
+98;Krabby;Tipo agua; - ;Primera generación;"Su nombre proviene de la combinación de la palabra en inglés crab (cangrejo) y crabby (gruñón).
+"
+99;Kingler;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras del inglés king, de king crab (cangrejo rey), y fiddler, de fiddler crab (cangrejo violinista), dos especies de cangrejo en las cuáles está basado. Su nombre en japonés es igual.
+"
+100;Voltorb;Tipo eléctrico; - ;Primera generación;"El nombre Voltorb viene de la combinación de las palabras inglesas volt (voltio) y orb (orbe).
+"
+101;Electrode;Tipo eléctrico; - ;Primera generación;"Su nombre viene de la palabra en inglés electrode (electrodo). También puede ser una combinación de las palabras en inglés electric (eléctrico) y explode (explotar).
+"
+102;Exeggcute;Tipo planta;Tipo psíquico;Primera generación;Nidos de Exeggcute.
+103;Exeggutor;Tipo planta;Tipo psíquico;Primera generación;"El cuerpo de Exeggutor tiene la apariencia de una palmera. Para que no haya rivalidades, sus cabezas están en completa armonía para que así no peleen entre sí. Es un Pokémon típico del trópico, por tal motivo se le suele encontrar en bosques y junglas, formando grandes colonias, siempre acompañado de su preevolución. 
+"
+104;Cubone;Tipo tierra; - ;Primera generación;"Su nombre en japonés ???? (Karakara) resulta de la palabra ? kara (vacía) y de ? kara (coraza). Puede proceder también de la onomatopeya ???? karakara, que puede significar vacío o magro.
+"
+105;Marowak;Tipo tierra; - ;Primera generación;"Tras evolucionar de Cubone, su cráneo y la coraza ósea que lleva sobre la cabeza se fusionan, formando una nueva coraza mucho más cómoda y resistente que la anterior. 
+"
+106;Hitmonlee;Tipo lucha; - ;Primera generación;"Hitmonlee es un Pokémon basado en un blemias. Se caracteriza por ser un Pokémon especialista en patadas, las cuales son increíblemente fuertes y veloces. Debido a su gran elasticidad puede dar patadas casi en cualquier posición en la que esté hacia cualquier dirección. Se le suele dar el nombre de 'el pateador feroz'. Tras la lucha, se masajea las piernas para relajar los músculos y descansar.
+"
+107;Hitmonchan;Tipo lucha; - ;Primera generación;"A diferencia de Hitmonlee, Hitmonchan es un maestro de los puños con los cuales consigue noquear a cualquier oponente. Su destreza con los golpes ha logrado que pueda aprender puñetazos de todas clases, incluyendo los elementales, entre otros.
+"
+108;Lickitung;Tipo normal; - ;Primera generación;"Su nombre es una combinación de las palabras en inglés licking (lamer) y tongue (lengua).
+"
+109;Koffing;Tipo veneno; - ;Primera generación;"Su nombre viene del sonido que se hace al toser (cof) y del verbo en inglés cough (toser), en concreto de su forma en gerundio coughing añadiéndole la partícula ""-ing"".
+"
+110;Weezing;Tipo veneno; - ;Primera generación;"Su nombre proviene de una deformación de la palabra inglesa wheezing (respirar con dificultad).
+"
+111;Rhyhorn;Tipo tierra;Tipo roca;Primera generación;"Su nombre parece ser una combinación de las palabras en inglés rhinoceros (rinoceronte, animal en el que está basado) y horn (cuerno). 
+"
+112;Rhydon;Tipo tierra;Tipo roca;Primera generación;"Su nombre proviene de la palabra rhinoceros (rinoceronte en inglés, animal en el que está basado) y don (del griego odon que significa diente, usado en varios nombres de dinosaurios).
+"
+113;Chansey;Tipo normal; - ;Primera generación;"Es un Pokémon raro de capturar, su carácter amable hace que quiera ayudar siempre a la gente de buen corazón. Por eso, un sitio donde se pueden encontrar muchos Chansey es en los hospitales, donde ayudan a las enfermeras Joy a cuidar los Pokémon heridos.
+"
+114;Tangela;Tipo planta; - ;Primera generación;"Su nombre inglés proviene de la palabra en inglés tangle (enredo).
+"
+115;Kangaskhan;Tipo normal; - ;Primera generación;"Su nombre es una combinación de kangaroo (canguro en inglés, por el marsupio donde lleva a su cría) y Khan, hace referencia al título turco-mongol de máximo gobernante.
+"
+116;Horsea;Tipo agua; - ;Primera generación;"Su nombre proviene de los términos en inglés horse (caballo) y sea (mar), en clara referencia al caballito de mar, en el cual está basado.
+"
+117;Seadra;Tipo agua; - ;Primera generación;"Su nombre está formado por las palabras en inglés sea (mar) y dragon (dragón).
+"
+118;Goldeen;Tipo agua; - ;Primera generación;"Su nombre viene de las palabra goldfish (carpa dorada, pez al que se asemeja) y queen reina en inglés.
+"
+119;Seaking;Tipo agua; - ;Primera generación;"Su nombre proviene de las palabras en inglés sea (mar) y king (rey). En un principio, su nombre iba a ser Neptune, el dios del mar en la mitología romana.
+"
+120;Staryu;Tipo agua; - ;Primera generación;"Su nombre se deriva de las palabras en inglés star (estrella) y yu de la pronunciación de you (tú).
+"
+121;Starmie;Tipo agua;Tipo psíquico;Primera generación;"Su nombre inglés y japonés está formado por las palabras star (estrella en inglés) y ? (gema). En inglés existe una pequeña broma con la deformación
+del pronombre personal me (yo) en Starmie y la deformación del pronombre you (tú) en Staryu.
+"
+122;Mr. Mime;Tipo psíquico;Tipo hada;Primera generación;"Su nombre inglés son dos palabras, Mr., abreviación de mister (señor) y mime (mimo, por su inspiración en los mimos), por lo que su nombre puede interpretarse como Señor Mimo.
+"
+123;Scyther;Tipo bicho;Tipo volador;Primera generación;"Su nombre proviene del inglés scythe, que significa guadaña; a la que se le añade la ""r"" inglesa que acompaña a los nombres que designan oficios (como baker, panadero). 
+"
+124;Jynx;Tipo hielo;Tipo psíquico;Primera generación;"Jynx puede venir de la palabra en inglés ""Jinx"" que significa gafe o  pájaro de mal agüero.
+"
+125;Electabuzz;Tipo eléctrico; - ;Primera generación;"Su nombre proviene de las palabras en inglés electric (eléctrico) y buzz (zumbido).
+"
+126;Magmar;Tipo fuego; - ;Primera generación;"Magmar es un Pokémon constituido básicamente por fuego, y sus ataques son mucho más fuertes que los de su preevolución, pudiendo llegar a temperaturas el doble de elevadas. El fuego es su sistema para recuperarse ya que cierra totalmente sus heridas después de intensos combates. Suele vivir en el núcleo de volcanes activos. Se pueden ver por las cercanías cuando hay o va a haber una erupción volcánica. A veces se pueden ver alrededor del cráter, haciendo un tipo de ""ritual"". Se dice que es para calmar el volcán. Este tipo de rituales les hace poseedores de cierta inteligencia gregaria. 
+"
+127;Pinsir;Tipo bicho; - ;Primera generación;"Su nombre es una deformación de la palabra pincer (pinza en inglés) ya que tienen una pronunciación muy similar.
+"
+128;Tauros;Tipo normal; - ;Primera generación;"Tauros proviene del latín Taurus, que significa toro.
+"
+129;Magikarp;Tipo agua; - ;Primera generación;Un Pidgeotto atrapando un Magikarp en pleno salto.
+130;Gyarados;Tipo agua;Tipo volador;Primera generación;Gyarados en una ciudad arrasada.
+131;Lapras;Tipo agua;Tipo hielo;Primera generación;"El nombre Lapras es probablemente una corrupción lingüística de su nombre japonés, Laplace. Este podría ser una referencia a Pierre Simon Laplace, un matemático que escribió varios libros basados en las propiedades matemáticas de los mares y las mareas. También podría venir del francés la place (el asiento), en referencia a como los humanos utilizan su lomo sentándose en él para trasportarse por el mar, o también puede provenir de lapa, un género de moluscos una de cuyas principales características es la concha que cargan, y place, que en inglés significa lugar, acomodar, tal vez debido a lo mismo dicho anteriormente, por cómo los humanos se sientan en su lomo. Otra posibilidad es que su nombre provenga del inglés lapis, lapislázuli, una bella gema de un color azul intenso.
+"
+132;Ditto;Tipo normal; - ;Primera generación;El Pokémon cambia su estructura totalmente.
+133;Eevee;Tipo normal; - ;Primera generación;"El nombre de Eevee proviene de la palabra inglesa evolution, que significa evolución en español, debido a la multitud de evoluciones que posee. Aunque al principio se pensó en llamarlo Eon, este nombre quedó finalmente sólo como la parte final en los nombres de sus 8 evoluciones; esta terminación puede provenir de la combinación de caracteres de la palabra evolution.
+"
+134;Vaporeon;Tipo agua; - ;Primera generación;"Su nombre viene de vapor, referencia a su habilidad de crear una especie de niebla en la cual se esconde, y el sufijo eon, que se aplica a toda la familia evolutiva de Eevee.
+"
+135;Jolteon;Tipo eléctrico; - ;Primera generación;"Su nombre proviene de la palabra jolt (sacudir, podría ser en referencia a una sacudida eléctrica) y eon, el nombre que iba a tener originalmente Eevee. También puede ser de volt (voltio) y eon. Su nombre en japonés, ""Thunders"", se refiere a ""Truenos"" en inglés.
+"
+136;Flareon;Tipo fuego; - ;Primera generación;"Su nombre proviene de la palabra flare, llamarada. Y el sufijo eon aplicado a toda la familia evolutiva de Eevee.
+"
+137;Porygon;Tipo normal; - ;Primera generación;"Su nombre viene de la palabra polygon, (polígono, por su forma poligonal) y de ""origami"" (el arte japonés de hacer figuras de papel sin cortarlo, solo con pliegues. La figura más famosa es la ""grulla"", a la que este Pokémon debe su forma).
+"
+138;Omanyte;Tipo roca;Tipo agua;Primera generación;"Su nombre es una modificación de Ammonite, un tipo de moluscos cefalópodos extintos.
+"
+139;Omastar;Tipo roca;Tipo agua;Primera generación;"El nombre viene de una palabra compuesta, oma, que viene de ammonites (un grupo de moluscos extintos bastante parecidos a él) y star, que viene del inglés (estrella).
+"
+140;Kabuto;Tipo roca;Tipo agua;Primera generación;"La más probable es que su nombre provenga de Kabutogani que significa  cangrejo herradura en japonés, animal con el que poseé un gran parecido. También puede provenir del nombre de los cascos de los samuráis llamados Kabuto. Otra posibilidad es que su nombre tenga origen en la palabra Kabutomushi (escarabajo en japonés).
+"
+141;Kabutops;Tipo roca;Tipo agua;Primera generación;"Su nombre parece provenir del japonés Kabutogani (cangrejo herradura) o Kabutomushi (escarabajo) y top (palabra inglesa de diversos significados que puede traducirse como ""máximo"" o ""superior"" -en referencia a que es mucho más alto, ágil, fuerte y, en general, mejor que Kabuto, su preevolución). ""-ops"" también puede venir de triops, un género de crustáceos que comparte semejanza con Kabutops.
+"
+142;Aerodactyl;Tipo roca;Tipo volador;Primera generación;"Su nombre viene de las palabras inglesas aero (aéreo) y pterodactyl (pterodáctilo).
+"
+143;Snorlax;Tipo normal; - ;Primera generación;"Su nombre proviene de las palabras en inglés snore (ronquido) y relax (relajación). También viene de lax (flojo en inglés).
+"
+144;Articuno;Tipo hielo;Tipo volador;Primera generación;"El nombre de Articuno proviene del término en inglés arctic (ártico) y del número español uno. El nombre en japonés viene del inglés Freezer, que significa ""congelador"".
+"
+145;Zapdos;Tipo eléctrico;Tipo volador;Primera generación;"Su nombre en japonés, Thunder, es literalmente thunder (trueno). 
+"
+146;Moltres;Tipo fuego;Tipo volador;Primera generación;"Su nombre deriva de molten (derretido) y el número en español tres. En japonés su nombre es una romanización del inglés fire (fuego).
+"
+147;Dratini;Tipo dragón; - ;Primera generación;"Su nombre proviene de las palabras en inglés dragon (dragón) y tiny (pequeñito). A pesar de esto, por lo que se podría pensar que es un dragón pequeño, Dratini puede alcanzar hasta 1,8 de metros de longitud.
+"
+148;Dragonair;Tipo dragón; - ;Primera generación;"Su nombre proviene de las palabras en inglés dragon (dragón) y debonair (elegante y desenvuelto). También puede tratarse de un juego de palabras con air (aire, probablemente en referencia a su habilidad para modificar el clima).
+"
+149;Dragonite;Tipo dragón;Tipo volador;Primera generación;"Dragonite es un gran Pokémon dragón, con varias características marcadas. Puede volar, escupir tanto fuego como agua o hielo, utilizar la electricidad, que genera mediante sus antenas pero el cómo lo hacen, es desconocido, pero podría ser porque el material del que están hechas permite reunir una enorme carga estática, además de eso posee una inteligencia cercana a la humana. Además, igual que su preevolución, salvan a gente que se está ahogando y marineros perdidos en el mar.
+"
+150;Mewtwo;Tipo psíquico; - ;Primera generación;"Su nombre, Mewtwo, proviene del Pokémon Mew y de two (dos en inglés) por lo que su nombre significa Mew dos, dando a entender que Mewtwo es un ""clon"" de Mew, es decir, un segundo Mew. También fonéticamente puede ser algo similar la palabra en japonés mutante (my?tanto) y en la pronunciación.
+"
+151;Mew;Tipo psíquico; - ;Primera generación;"El nombre de Mew procede de su nombre japonés, y proviene de una combinación del japonés my? (extraño o raro), la onomatopeya inglesa meow (maullido) y la palabra inglesa new (nuevo).
+"
+152;Chikorita;Tipo planta; - ;Segunda generación; - 
+153;Bayleef;Tipo planta; - ;Segunda generación; - 
+154;Meganium;Tipo planta; - ;Segunda generación; - 
+155;Cyndaquil;Tipo fuego; - ;Segunda generación; - 
+156;Quilava;Tipo fuego; - ;Segunda generación; - 
+157;Typhlosion;Tipo fuego; - ;Segunda generación; - 
+158;Totodile;Tipo agua; - ;Segunda generación; - 
+159;Croconaw;Tipo agua; - ;Segunda generación; - 
+160;Feraligatr;Tipo agua; - ;Segunda generación; - 
+161;Sentret;Tipo normal; - ;Segunda generación; - 
+162;Furret;Tipo normal; - ;Segunda generación; - 
+163;Hoothoot;Tipo normal;Tipo volador;Segunda generación; - 
+164;Noctowl;Tipo normal;Tipo volador;Segunda generación; - 
+165;Ledyba;Tipo bicho;Tipo volador;Segunda generación; - 
+166;Ledian;Tipo bicho;Tipo volador;Segunda generación; - 
+167;Spinarak;Tipo bicho;Tipo veneno;Segunda generación; - 
+168;Ariados;Tipo bicho;Tipo veneno;Segunda generación; - 
+169;Crobat;Tipo veneno;Tipo volador;Segunda generación; - 
+170;Chinchou;Tipo agua;Tipo eléctrico;Segunda generación; - 
+171;Lanturn;Tipo agua;Tipo eléctrico;Segunda generación; - 
+172;Pichu;Tipo eléctrico; - ;Segunda generación; - 
+173;Cleffa;Tipo hada; - ;Segunda generación; - 
+174;Igglybuff;Tipo normal;Tipo hada;Segunda generación; - 
+175;Togepi;Tipo hada; - ;Segunda generación; - 
+176;Togetic;Tipo hada; - ;Segunda generación; - 
+177;Natu;Tipo psíquico;Tipo volador;Segunda generación; - 
+178;Xatu;Tipo psíquico;Tipo volador;Segunda generación; - 
+179;Mareep;Tipo eléctrico; - ;Segunda generación; - 
+180;Flaaffy;Tipo eléctrico; - ;Segunda generación; - 
+181;Ampharos;Tipo eléctrico; - ;Segunda generación; - 
+182;Bellossom;Tipo planta; - ;Segunda generación; - 
+183;Marill;Tipo agua;Tipo hada;Segunda generación; - 
+184;Azumarill;Tipo agua;Tipo hada;Segunda generación; - 
+185;Sudowoodo;Tipo roca; - ;Segunda generación; - 
+186;Politoed;Tipo agua; - ;Segunda generación; - 
+187;Hoppip;Tipo planta;Tipo volador;Segunda generación; - 
+188;Skiploom;Tipo planta;Tipo volador;Segunda generación; - 
+189;Jumpluff;Tipo planta;Tipo volador;Segunda generación; - 
+190;Aipom;Tipo normal; - ;Segunda generación; - 
+191;Sunkern;Tipo planta; - ;Segunda generación; - 
+192;Sunflora;Tipo planta; - ;Segunda generación; - 
+193;Yanma;Tipo bicho;Tipo volador;Segunda generación; - 
+194;Wooper;Tipo agua;Tipo tierra;Segunda generación; - 
+195;Quagsire;Tipo agua;Tipo tierra;Segunda generación; - 
+196;Espeon;Tipo psíquico; - ;Segunda generación; - 
+197;Umbreon;Tipo siniestro; - ;Segunda generación; - 
+198;Murkrow;Tipo siniestro;Tipo volador;Segunda generación; - 
+199;Slowking;Tipo agua;Tipo psíquico;Segunda generación; - 
+200;Misdreavus;Tipo fantasma; - ;Segunda generación; - 
+201;Unown;Tipo psíquico; - ;Segunda generación; - 
+202;Wobbuffet;Tipo psíquico; - ;Segunda generación; - 
+203;Girafarig;Tipo normal;Tipo psíquico;Segunda generación; - 
+204;Pineco;Tipo bicho; - ;Segunda generación; - 
+205;Forretress;Tipo bicho;Tipo acero;Segunda generación; - 
+206;Dunsparce;Tipo normal; - ;Segunda generación; - 
+207;Gligar;Tipo tierra;Tipo volador;Segunda generación; - 
+208;Steelix;Tipo acero;Tipo tierra;Segunda generación; - 
+209;Snubbull;Tipo hada; - ;Segunda generación; - 
+210;Granbull;Tipo hada; - ;Segunda generación; - 
+211;Qwilfish;Tipo agua;Tipo veneno;Segunda generación; - 
+212;Scizor;Tipo bicho;Tipo acero;Segunda generación; - 
+213;Shuckle;Tipo bicho;Tipo roca;Segunda generación; - 
+214;Heracross;Tipo bicho;Tipo lucha;Segunda generación; - 
+215;Sneasel;Tipo siniestro;Tipo hielo;Segunda generación; - 
+216;Teddiursa;Tipo normal; - ;Segunda generación; - 
+217;Ursaring;Tipo normal; - ;Segunda generación; - 
+218;Slugma;Tipo fuego; - ;Segunda generación; - 
+219;Magcargo;Tipo fuego;Tipo roca;Segunda generación; - 
+220;Swinub;Tipo hielo;Tipo tierra;Segunda generación; - 
+221;Piloswine;Tipo hielo;Tipo tierra;Segunda generación; - 
+222;Corsola;Tipo agua;Tipo roca;Segunda generación; - 
+223;Remoraid;Tipo agua; - ;Segunda generación; - 
+224;Octillery;Tipo agua; - ;Segunda generación; - 
+225;Delibird;Tipo hielo;Tipo volador;Segunda generación; - 
+226;Mantine;Tipo agua;Tipo volador;Segunda generación; - 
+227;Skarmory;Tipo acero;Tipo volador;Segunda generación; - 
+228;Houndour;Tipo siniestro;Tipo fuego;Segunda generación; - 
+229;Houndoom;Tipo siniestro;Tipo fuego;Segunda generación; - 
+230;Kingdra;Tipo agua;Tipo dragón;Segunda generación; - 
+231;Phanpy;Tipo tierra; - ;Segunda generación; - 
+232;Donphan;Tipo tierra; - ;Segunda generación; - 
+233;Porygon2;Tipo normal; - ;Segunda generación; - 
+234;Stantler;Tipo normal; - ;Segunda generación; - 
+235;Smeargle;Tipo normal; - ;Segunda generación; - 
+236;Tyrogue;Tipo lucha; - ;Segunda generación; - 
+237;Hitmontop;Tipo lucha; - ;Segunda generación; - 
+238;Smoochum;Tipo hielo;Tipo psíquico;Segunda generación; - 
+239;Elekid;Tipo eléctrico; - ;Segunda generación; - 
+240;Magby;Tipo fuego; - ;Segunda generación; - 
+241;Miltank;Tipo normal; - ;Segunda generación; - 
+242;Blissey;Tipo normal; - ;Segunda generación; - 
+243;Raikou;Tipo eléctrico; - ;Segunda generación; - 
+244;Entei;Tipo fuego; - ;Segunda generación; - 
+245;Suicune;Tipo agua; - ;Segunda generación; - 
+246;Larvitar;Tipo roca;Tipo tierra;Segunda generación; - 
+247;Pupitar;Tipo roca;Tipo tierra;Segunda generación; - 
+248;Tyranitar;Tipo roca;Tipo siniestro;Segunda generación; - 
+249;Lugia;Tipo psíquico;Tipo volador;Segunda generación; - 
+250;Ho-Oh;Tipo fuego;Tipo volador;Segunda generación; - 
+251;Celebi;Tipo psíquico;Tipo planta;Segunda generación; - 
+252;Treecko;Tipo planta; - ;Tercera generación; - 
+253;Grovyle;Tipo planta; - ;Tercera generación; - 
+254;Sceptile;Tipo planta; - ;Tercera generación; - 
+255;Torchic;Tipo fuego; - ;Tercera generación; - 
+256;Combusken;Tipo fuego;Tipo lucha;Tercera generación; - 
+257;Blaziken;Tipo fuego;Tipo lucha;Tercera generación; - 
+258;Mudkip;Tipo agua; - ;Tercera generación; - 
+259;Marshtomp;Tipo agua;Tipo tierra;Tercera generación; - 
+260;Swampert;Tipo agua;Tipo tierra;Tercera generación; - 
+261;Poochyena;Tipo siniestro; - ;Tercera generación; - 
+262;Mightyena;Tipo siniestro; - ;Tercera generación; - 
+263;Zigzagoon;Tipo normal; - ;Tercera generación; - 
+264;Linoone;Tipo normal; - ;Tercera generación; - 
+265;Wurmple;Tipo bicho; - ;Tercera generación; - 
+266;Silcoon;Tipo bicho; - ;Tercera generación; - 
+267;Beautifly;Tipo bicho;Tipo volador;Tercera generación; - 
+268;Cascoon;Tipo bicho; - ;Tercera generación; - 
+269;Dustox;Tipo bicho;Tipo veneno;Tercera generación; - 
+270;Lotad;Tipo agua;Tipo planta;Tercera generación; - 
+271;Lombre;Tipo agua;Tipo planta;Tercera generación; - 
+272;Ludicolo;Tipo agua;Tipo planta;Tercera generación; - 
+273;Seedot;Tipo planta; - ;Tercera generación; - 
+274;Nuzleaf;Tipo planta;Tipo siniestro;Tercera generación; - 
+275;Shiftry;Tipo planta;Tipo siniestro;Tercera generación; - 
+276;Taillow;Tipo normal;Tipo volador;Tercera generación; - 
+277;Swellow;Tipo normal;Tipo volador;Tercera generación; - 
+278;Wingull;Tipo agua;Tipo volador;Tercera generación; - 
+279;Pelipper;Tipo agua;Tipo volador;Tercera generación; - 
+280;Ralts;Tipo psíquico;Tipo hada;Tercera generación; - 
+281;Kirlia;Tipo psíquico;Tipo hada;Tercera generación; - 
+282;Gardevoir;Tipo psíquico;Tipo hada;Tercera generación; - 
+283;Surskit;Tipo bicho;Tipo agua;Tercera generación; - 
+284;Masquerain;Tipo bicho;Tipo volador;Tercera generación; - 
+285;Shroomish;Tipo planta; - ;Tercera generación; - 
+286;Breloom;Tipo planta;Tipo lucha;Tercera generación; - 
+287;Slakoth;Tipo normal; - ;Tercera generación; - 
+288;Vigoroth;Tipo normal; - ;Tercera generación; - 
+289;Slaking;Tipo normal; - ;Tercera generación; - 
+290;Nincada;Tipo bicho;Tipo tierra;Tercera generación; - 
+291;Ninjask;Tipo bicho;Tipo volador;Tercera generación; - 
+292;Shedinja;Tipo bicho;Tipo fantasma;Tercera generación; - 
+293;Whismur;Tipo normal; - ;Tercera generación; - 
+294;Loudred;Tipo normal; - ;Tercera generación; - 
+295;Exploud;Tipo normal; - ;Tercera generación; - 
+296;Makuhita;Tipo lucha; - ;Tercera generación; - 
+297;Hariyama;Tipo lucha; - ;Tercera generación; - 
+298;Azurill;Tipo normal;Tipo hada;Tercera generación; - 
+299;Nosepass;Tipo roca; - ;Tercera generación; - 
+300;Skitty;Tipo normal; - ;Tercera generación; - 
+301;Delcatty;Tipo normal; - ;Tercera generación; - 
+302;Sableye;Tipo siniestro;Tipo fantasma;Tercera generación; - 
+303;Mawile;Tipo acero;Tipo hada;Tercera generación; - 
+304;Aron;Tipo acero;Tipo roca;Tercera generación; - 
+305;Lairon;Tipo acero;Tipo roca;Tercera generación; - 
+306;Aggron;Tipo acero;Tipo roca;Tercera generación; - 
+307;Meditite;Tipo lucha;Tipo psíquico;Tercera generación; - 
+308;Medicham;Tipo lucha;Tipo psíquico;Tercera generación; - 
+309;Electrike;Tipo eléctrico; - ;Tercera generación; - 
+310;Manectric;Tipo eléctrico; - ;Tercera generación; - 
+311;Plusle;Tipo eléctrico; - ;Tercera generación; - 
+312;Minun;Tipo eléctrico; - ;Tercera generación; - 
+313;Volbeat;Tipo bicho; - ;Tercera generación; - 
+314;Illumise;Tipo bicho; - ;Tercera generación; - 
+315;Roselia;Tipo planta;Tipo veneno;Tercera generación; - 
+316;Gulpin;Tipo veneno; - ;Tercera generación; - 
+317;Swalot;Tipo veneno; - ;Tercera generación; - 
+318;Carvanha;Tipo agua;Tipo siniestro;Tercera generación; - 
+319;Sharpedo;Tipo agua;Tipo siniestro;Tercera generación; - 
+320;Wailmer;Tipo agua; - ;Tercera generación; - 
+321;Wailord;Tipo agua; - ;Tercera generación; - 
+322;Numel;Tipo fuego;Tipo tierra;Tercera generación; - 
+323;Camerupt;Tipo fuego;Tipo tierra;Tercera generación; - 
+324;Torkoal;Tipo fuego; - ;Tercera generación; - 
+325;Spoink;Tipo psíquico; - ;Tercera generación; - 
+326;Grumpig;Tipo psíquico; - ;Tercera generación; - 
+327;Spinda;Tipo normal; - ;Tercera generación; - 
+328;Trapinch;Tipo tierra; - ;Tercera generación; - 
+329;Vibrava;Tipo tierra;Tipo dragón;Tercera generación; - 
+330;Flygon;Tipo tierra;Tipo dragón;Tercera generación; - 
+331;Cacnea;Tipo planta; - ;Tercera generación; - 
+332;Cacturne;Tipo planta;Tipo siniestro;Tercera generación; - 
+333;Swablu;Tipo normal;Tipo volador;Tercera generación; - 
+334;Altaria;Tipo dragón;Tipo volador;Tercera generación; - 
+335;Zangoose;Tipo normal; - ;Tercera generación; - 
+336;Seviper;Tipo veneno; - ;Tercera generación; - 
+337;Lunatone;Tipo roca;Tipo psíquico;Tercera generación; - 
+338;Solrock;Tipo roca;Tipo psíquico;Tercera generación; - 
+339;Barboach;Tipo agua;Tipo tierra;Tercera generación; - 
+340;Whiscash;Tipo agua;Tipo tierra;Tercera generación; - 
+341;Corphish;Tipo agua; - ;Tercera generación; - 
+342;Crawdaunt;Tipo agua;Tipo siniestro;Tercera generación; - 
+343;Baltoy;Tipo tierra;Tipo psíquico;Tercera generación; - 
+344;Claydol;Tipo tierra;Tipo psíquico;Tercera generación; - 
+345;Lileep;Tipo roca;Tipo planta;Tercera generación; - 
+346;Cradily;Tipo roca;Tipo planta;Tercera generación; - 
+347;Anorith;Tipo roca;Tipo bicho;Tercera generación; - 
+348;Armaldo;Tipo roca;Tipo bicho;Tercera generación; - 
+349;Feebas;Tipo agua; - ;Tercera generación; - 
+350;Milotic;Tipo agua; - ;Tercera generación; - 
+351;Castform;Tipo normal; - ;Tercera generación; - 
+352;Kecleon;Tipo normal; - ;Tercera generación; - 
+353;Shuppet;Tipo fantasma; - ;Tercera generación; - 
+354;Banette;Tipo fantasma; - ;Tercera generación; - 
+355;Duskull;Tipo fantasma; - ;Tercera generación; - 
+356;Dusclops;Tipo fantasma; - ;Tercera generación; - 
+357;Tropius;Tipo planta;Tipo volador;Tercera generación; - 
+358;Chimecho;Tipo psíquico; - ;Tercera generación; - 
+359;Absol;Tipo siniestro; - ;Tercera generación; - 
+360;Wynaut;Tipo psíquico; - ;Tercera generación; - 
+361;Snorunt;Tipo hielo; - ;Tercera generación; - 
+362;Glalie;Tipo hielo; - ;Tercera generación; - 
+363;Spheal;Tipo hielo;Tipo agua;Tercera generación; - 
+364;Sealeo;Tipo hielo;Tipo agua;Tercera generación; - 
+365;Walrein;Tipo hielo;Tipo agua;Tercera generación; - 
+366;Clamperl;Tipo agua; - ;Tercera generación; - 
+367;Huntail;Tipo agua; - ;Tercera generación; - 
+368;Gorebyss;Tipo agua; - ;Tercera generación; - 
+369;Relicanth;Tipo agua;Tipo roca;Tercera generación; - 
+370;Luvdisc;Tipo agua; - ;Tercera generación; - 
+371;Bagon;Tipo dragón; - ;Tercera generación; - 
+372;Shelgon;Tipo dragón; - ;Tercera generación; - 
+373;Salamence;Tipo dragón;Tipo volador;Tercera generación; - 
+374;Beldum;Tipo acero;Tipo psíquico;Tercera generación; - 
+375;Metang;Tipo acero;Tipo psíquico;Tercera generación; - 
+376;Metagross;Tipo acero;Tipo psíquico;Tercera generación; - 
+377;Regirock;Tipo roca; - ;Tercera generación; - 
+378;Regice;Tipo hielo; - ;Tercera generación; - 
+379;Registeel;Tipo acero; - ;Tercera generación; - 
+380;Latias;Tipo dragón;Tipo psíquico;Tercera generación; - 
+381;Latios;Tipo dragón;Tipo psíquico;Tercera generación; - 
+382;Kyogre;Tipo agua; - ;Tercera generación; - 
+383;Groudon;Tipo tierra; - ;Tercera generación; - 
+384;Rayquaza;Tipo dragón;Tipo volador;Tercera generación; - 
+385;Jirachi;Tipo acero;Tipo psíquico;Tercera generación; - 
+386;Deoxys;Tipo psíquico; - ;Tercera generación; - 
+387;Turtwig;Tipo planta; - ;Cuarta generación; - 
+388;Grotle;Tipo planta; - ;Cuarta generación; - 
+389;Torterra;Tipo planta;Tipo tierra;Cuarta generación; - 
+390;Chimchar;Tipo fuego; - ;Cuarta generación; - 
+391;Monferno;Tipo fuego;Tipo lucha;Cuarta generación; - 
+392;Infernape;Tipo fuego;Tipo lucha;Cuarta generación; - 
+393;Piplup;Tipo agua; - ;Cuarta generación; - 
+394;Prinplup;Tipo agua; - ;Cuarta generación; - 
+395;Empoleon;Tipo agua;Tipo acero;Cuarta generación; - 
+396;Starly;Tipo normal;Tipo volador;Cuarta generación; - 
+397;Staravia;Tipo normal;Tipo volador;Cuarta generación; - 
+398;Staraptor;Tipo normal;Tipo volador;Cuarta generación; - 
+399;Bidoof;Tipo normal; - ;Cuarta generación; - 
+400;Bibarel;Tipo normal;Tipo agua;Cuarta generación; - 
+401;Kricketot;Tipo bicho; - ;Cuarta generación; - 
+402;Kricketune;Tipo bicho; - ;Cuarta generación; - 
+403;Shinx;Tipo eléctrico; - ;Cuarta generación; - 
+404;Luxio;Tipo eléctrico; - ;Cuarta generación; - 
+405;Luxray;Tipo eléctrico; - ;Cuarta generación; - 
+406;Budew;Tipo planta;Tipo veneno;Cuarta generación; - 
+407;Roserade;Tipo planta;Tipo veneno;Cuarta generación; - 
+408;Cranidos;Tipo roca; - ;Cuarta generación; - 
+409;Rampardos;Tipo roca; - ;Cuarta generación; - 
+410;Shieldon;Tipo roca;Tipo acero;Cuarta generación; - 
+411;Bastiodon;Tipo roca;Tipo acero;Cuarta generación; - 
+412;Burmy;Tipo bicho; - ;Cuarta generación; - 
+413;Wormadam;Tipo bicho;Tipo planta;Cuarta generación; - 
+414;Mothim;Tipo bicho;Tipo volador;Cuarta generación; - 
+415;Combee;Tipo bicho;Tipo volador;Cuarta generación; - 
+416;Vespiquen;Tipo bicho;Tipo volador;Cuarta generación; - 
+417;Pachirisu;Tipo eléctrico; - ;Cuarta generación; - 
+418;Buizel;Tipo agua; - ;Cuarta generación; - 
+419;Floatzel;Tipo agua; - ;Cuarta generación; - 
+420;Cherubi;Tipo planta; - ;Cuarta generación; - 
+421;Cherrim;Tipo planta; - ;Cuarta generación; - 
+422;Shellos;Tipo agua; - ;Cuarta generación; - 
+423;Gastrodon;Tipo agua;Tipo tierra;Cuarta generación; - 
+424;Ambipom;Tipo normal; - ;Cuarta generación; - 
+425;Drifloon;Tipo fantasma;Tipo volador;Cuarta generación; - 
+426;Drifblim;Tipo fantasma;Tipo volador;Cuarta generación; - 
+427;Buneary;Tipo normal; - ;Cuarta generación; - 
+428;Lopunny;Tipo normal; - ;Cuarta generación; - 
+429;Mismagius;Tipo fantasma; - ;Cuarta generación; - 
+430;Honchkrow;Tipo siniestro;Tipo volador;Cuarta generación; - 
+431;Glameow;Tipo normal; - ;Cuarta generación; - 
+432;Purugly;Tipo normal; - ;Cuarta generación; - 
+433;Chingling;Tipo psíquico; - ;Cuarta generación; - 
+434;Stunky;Tipo veneno;Tipo siniestro;Cuarta generación; - 
+435;Skuntank;Tipo veneno;Tipo siniestro;Cuarta generación; - 
+436;Bronzor;Tipo acero;Tipo psíquico;Cuarta generación; - 
+437;Bronzong;Tipo acero;Tipo psíquico;Cuarta generación; - 
+438;Bonsly;Tipo roca; - ;Cuarta generación; - 
+439;Mime Jr.;Tipo psíquico;Tipo hada;Cuarta generación; - 
+440;Happiny;Tipo normal; - ;Cuarta generación; - 
+441;Chatot;Tipo normal;Tipo volador;Cuarta generación; - 
+442;Spiritomb;Tipo fantasma;Tipo siniestro;Cuarta generación; - 
+443;Gible;Tipo dragón;Tipo tierra;Cuarta generación; - 
+444;Gabite;Tipo dragón;Tipo tierra;Cuarta generación; - 
+445;Garchomp;Tipo dragón;Tipo tierra;Cuarta generación; - 
+446;Munchlax;Tipo normal; - ;Cuarta generación; - 
+447;Riolu;Tipo lucha; - ;Cuarta generación; - 
+448;Lucario;Tipo lucha;Tipo acero;Cuarta generación; - 
+449;Hippopotas;Tipo tierra; - ;Cuarta generación; - 
+450;Hippowdon;Tipo tierra; - ;Cuarta generación; - 
+451;Skorupi;Tipo veneno;Tipo bicho;Cuarta generación; - 
+452;Drapion;Tipo veneno;Tipo siniestro;Cuarta generación; - 
+453;Croagunk;Tipo veneno;Tipo lucha;Cuarta generación; - 
+454;Toxicroak;Tipo veneno;Tipo lucha;Cuarta generación; - 
+455;Carnivine;Tipo planta; - ;Cuarta generación; - 
+456;Finneon;Tipo agua; - ;Cuarta generación; - 
+457;Lumineon;Tipo agua; - ;Cuarta generación; - 
+458;Mantyke;Tipo agua;Tipo volador;Cuarta generación; - 
+459;Snover;Tipo planta;Tipo hielo;Cuarta generación; - 
+460;Abomasnow;Tipo planta;Tipo hielo;Cuarta generación; - 
+461;Weavile;Tipo siniestro;Tipo hielo;Cuarta generación; - 
+462;Magnezone;Tipo eléctrico;Tipo acero;Cuarta generación; - 
+463;Lickilicky;Tipo normal; - ;Cuarta generación; - 
+464;Rhyperior;Tipo tierra;Tipo roca;Cuarta generación; - 
+465;Tangrowth;Tipo planta; - ;Cuarta generación; - 
+466;Electivire;Tipo eléctrico; - ;Cuarta generación; - 
+467;Magmortar;Tipo fuego; - ;Cuarta generación; - 
+468;Togekiss;Tipo hada;Tipo volador;Cuarta generación; - 
+469;Yanmega;Tipo bicho;Tipo volador;Cuarta generación; - 
+470;Leafeon;Tipo planta; - ;Cuarta generación; - 
+471;Glaceon;Tipo hielo; - ;Cuarta generación; - 
+472;Gliscor;Tipo tierra;Tipo volador;Cuarta generación; - 
+473;Mamoswine;Tipo hielo;Tipo tierra;Cuarta generación; - 
+474;Porygon-Z;Tipo normal; - ;Cuarta generación; - 
+475;Gallade;Tipo psíquico;Tipo lucha;Cuarta generación; - 
+476;Probopass;Tipo roca;Tipo acero;Cuarta generación; - 
+477;Dusknoir;Tipo fantasma; - ;Cuarta generación; - 
+478;Froslass;Tipo hielo;Tipo fantasma;Cuarta generación; - 
+479;Rotom;Tipo eléctrico;Tipo fantasma;Cuarta generación; - 
+480;Uxie;Tipo psíquico; - ;Cuarta generación; - 
+481;Mesprit;Tipo psíquico; - ;Cuarta generación; - 
+482;Azelf;Tipo psíquico; - ;Cuarta generación; - 
+483;Dialga;Tipo acero;Tipo dragón;Cuarta generación; - 
+484;Palkia;Tipo agua;Tipo dragón;Cuarta generación; - 
+485;Heatran;Tipo fuego;Tipo acero;Cuarta generación; - 
+486;Regigigas;Tipo normal; - ;Cuarta generación; - 
+487;Giratina;Tipo fantasma;Tipo dragón;Cuarta generación; - 
+488;Cresselia;Tipo psíquico; - ;Cuarta generación; - 
+489;Phione;Tipo agua; - ;Cuarta generación; - 
+490;Manaphy;Tipo agua; - ;Cuarta generación; - 
+491;Darkrai;Tipo siniestro; - ;Cuarta generación; - 
+492;Shaymin;Tipo planta; - ;Cuarta generación; - 
+493;Arceus;Tipo normal; - ;Cuarta generación; - 
+494;Victini;Tipo psíquico;Tipo fuego;Quinta generación; - 
+495;Snivy;Tipo planta; - ;Quinta generación; - 
+496;Servine;Tipo planta; - ;Quinta generación; - 
+497;Serperior;Tipo planta; - ;Quinta generación; - 
+498;Tepig;Tipo fuego; - ;Quinta generación; - 
+499;Pignite;Tipo fuego;Tipo lucha;Quinta generación; - 
+500;Emboar;Tipo fuego;Tipo lucha;Quinta generación; - 
+501;Oshawott;Tipo agua; - ;Quinta generación; - 
+502;Dewott;Tipo agua; - ;Quinta generación; - 
+503;Samurott;Tipo agua; - ;Quinta generación; - 
+504;Patrat;Tipo normal; - ;Quinta generación; - 
+505;Watchog;Tipo normal; - ;Quinta generación; - 
+506;Lillipup;Tipo normal; - ;Quinta generación; - 
+507;Herdier;Tipo normal; - ;Quinta generación; - 
+508;Stoutland;Tipo normal; - ;Quinta generación; - 
+509;Purrloin;Tipo siniestro; - ;Quinta generación; - 
+510;Liepard;Tipo siniestro; - ;Quinta generación; - 
+511;Pansage;Tipo planta; - ;Quinta generación; - 
+512;Simisage;Tipo planta; - ;Quinta generación; - 
+513;Pansear;Tipo fuego; - ;Quinta generación; - 
+514;Simisear;Tipo fuego; - ;Quinta generación; - 
+515;Panpour;Tipo agua; - ;Quinta generación; - 
+516;Simipour;Tipo agua; - ;Quinta generación; - 
+517;Munna;Tipo psíquico; - ;Quinta generación; - 
+518;Musharna;Tipo psíquico; - ;Quinta generación; - 
+519;Pidove;Tipo normal;Tipo volador;Quinta generación; - 
+520;Tranquill;Tipo normal;Tipo volador;Quinta generación; - 
+521;Unfezant;Tipo normal;Tipo volador;Quinta generación; - 
+522;Blitzle;Tipo eléctrico; - ;Quinta generación; - 
+523;Zebstrika;Tipo eléctrico; - ;Quinta generación; - 
+524;Roggenrola;Tipo roca; - ;Quinta generación; - 
+525;Boldore;Tipo roca; - ;Quinta generación; - 
+526;Gigalith;Tipo roca; - ;Quinta generación; - 
+527;Woobat;Tipo psíquico;Tipo volador;Quinta generación; - 
+528;Swoobat;Tipo psíquico;Tipo volador;Quinta generación; - 
+529;Drilbur;Tipo tierra; - ;Quinta generación; - 
+530;Excadrill;Tipo tierra;Tipo acero;Quinta generación; - 
+531;Audino;Tipo normal; - ;Quinta generación; - 
+532;Timburr;Tipo lucha; - ;Quinta generación; - 
+533;Gurdurr;Tipo lucha; - ;Quinta generación; - 
+534;Conkeldurr;Tipo lucha; - ;Quinta generación; - 
+535;Tympole;Tipo agua; - ;Quinta generación; - 
+536;Palpitoad;Tipo agua;Tipo tierra;Quinta generación; - 
+537;Seismitoad;Tipo agua;Tipo tierra;Quinta generación; - 
+538;Throh;Tipo lucha; - ;Quinta generación; - 
+539;Sawk;Tipo lucha; - ;Quinta generación; - 
+540;Sewaddle;Tipo bicho;Tipo planta;Quinta generación; - 
+541;Swadloon;Tipo bicho;Tipo planta;Quinta generación; - 
+542;Leavanny;Tipo bicho;Tipo planta;Quinta generación; - 
+543;Venipede;Tipo bicho;Tipo veneno;Quinta generación; - 
+544;Whirlipede;Tipo bicho;Tipo veneno;Quinta generación; - 
+545;Scolipede;Tipo bicho;Tipo veneno;Quinta generación; - 
+546;Cottonee;Tipo planta;Tipo hada;Quinta generación; - 
+547;Whimsicott;Tipo planta;Tipo hada;Quinta generación; - 
+548;Petilil;Tipo planta; - ;Quinta generación; - 
+549;Lilligant;Tipo planta; - ;Quinta generación; - 
+550;Basculin;Tipo agua; - ;Quinta generación; - 
+551;Sandile;Tipo tierra;Tipo siniestro;Quinta generación; - 
+552;Krokorok;Tipo tierra;Tipo siniestro;Quinta generación; - 
+553;Krookodile;Tipo tierra;Tipo siniestro;Quinta generación; - 
+554;Darumaka;Tipo fuego; - ;Quinta generación; - 
+555;Darmanitan;Tipo fuego; - ;Quinta generación; - 
+556;Maractus;Tipo planta; - ;Quinta generación; - 
+557;Dwebble;Tipo bicho;Tipo roca;Quinta generación; - 
+558;Crustle;Tipo bicho;Tipo roca;Quinta generación; - 
+559;Scraggy;Tipo siniestro;Tipo lucha;Quinta generación; - 
+560;Scrafty;Tipo siniestro;Tipo lucha;Quinta generación; - 
+561;Sigilyph;Tipo psíquico;Tipo volador;Quinta generación; - 
+562;Yamask;Tipo fantasma; - ;Quinta generación; - 
+563;Cofagrigus;Tipo fantasma; - ;Quinta generación; - 
+564;Tirtouga;Tipo agua;Tipo roca;Quinta generación; - 
+565;Carracosta;Tipo agua;Tipo roca;Quinta generación; - 
+566;Archen;Tipo roca;Tipo volador;Quinta generación; - 
+567;Archeops;Tipo roca;Tipo volador;Quinta generación; - 
+568;Trubbish;Tipo veneno; - ;Quinta generación; - 
+569;Garbodor;Tipo veneno; - ;Quinta generación; - 
+570;Zorua;Tipo siniestro; - ;Quinta generación; - 
+571;Zoroark;Tipo siniestro; - ;Quinta generación; - 
+572;Minccino;Tipo normal; - ;Quinta generación; - 
+573;Cinccino;Tipo normal; - ;Quinta generación; - 
+574;Gothita;Tipo psíquico; - ;Quinta generación; - 
+575;Gothorita;Tipo psíquico; - ;Quinta generación; - 
+576;Gothitelle;Tipo psíquico; - ;Quinta generación; - 
+577;Solosis;Tipo psíquico; - ;Quinta generación; - 
+578;Duosion;Tipo psíquico; - ;Quinta generación; - 
+579;Reuniclus;Tipo psíquico; - ;Quinta generación; - 
+580;Ducklett;Tipo agua;Tipo volador;Quinta generación; - 
+581;Swanna;Tipo agua;Tipo volador;Quinta generación; - 
+582;Vanillite;Tipo hielo; - ;Quinta generación; - 
+583;Vanillish;Tipo hielo; - ;Quinta generación; - 
+584;Vanilluxe;Tipo hielo; - ;Quinta generación; - 
+585;Deerling;Tipo normal;Tipo planta;Quinta generación; - 
+586;Sawsbuck;Tipo normal;Tipo planta;Quinta generación; - 
+587;Emolga;Tipo eléctrico;Tipo volador;Quinta generación; - 
+588;Karrablast;Tipo bicho; - ;Quinta generación; - 
+589;Escavalier;Tipo bicho;Tipo acero;Quinta generación; - 
+590;Foongus;Tipo planta;Tipo veneno;Quinta generación; - 
+591;Amoonguss;Tipo planta;Tipo veneno;Quinta generación; - 
+592;Frillish;Tipo agua;Tipo fantasma;Quinta generación; - 
+593;Jellicent;Tipo agua;Tipo fantasma;Quinta generación; - 
+594;Alomomola;Tipo agua; - ;Quinta generación; - 
+595;Joltik;Tipo bicho;Tipo eléctrico;Quinta generación; - 
+596;Galvantula;Tipo bicho;Tipo eléctrico;Quinta generación; - 
+597;Ferroseed;Tipo planta;Tipo acero;Quinta generación; - 
+598;Ferrothorn;Tipo planta;Tipo acero;Quinta generación; - 
+599;Klink;Tipo acero; - ;Quinta generación; - 
+600;Klang;Tipo acero; - ;Quinta generación; - 
+601;Klinklang;Tipo acero; - ;Quinta generación; - 
+602;Tynamo;Tipo eléctrico; - ;Quinta generación; - 
+603;Eelektrik;Tipo eléctrico; - ;Quinta generación; - 
+604;Eelektross;Tipo eléctrico; - ;Quinta generación; - 
+605;Elgyem;Tipo psíquico; - ;Quinta generación; - 
+606;Beheeyem;Tipo psíquico; - ;Quinta generación; - 
+607;Litwick;Tipo fantasma;Tipo fuego;Quinta generación; - 
+608;Lampent;Tipo fantasma;Tipo fuego;Quinta generación; - 
+609;Chandelure;Tipo fantasma;Tipo fuego;Quinta generación; - 
+610;Axew;Tipo dragón; - ;Quinta generación; - 
+611;Fraxure;Tipo dragón; - ;Quinta generación; - 
+612;Haxorus;Tipo dragón; - ;Quinta generación; - 
+613;Cubchoo;Tipo hielo; - ;Quinta generación; - 
+614;Beartic;Tipo hielo; - ;Quinta generación; - 
+615;Cryogonal;Tipo hielo; - ;Quinta generación; - 
+616;Shelmet;Tipo bicho; - ;Quinta generación; - 
+617;Accelgor;Tipo bicho; - ;Quinta generación; - 
+618;Stunfisk;Tipo tierra;Tipo eléctrico;Quinta generación; - 
+619;Mienfoo;Tipo lucha; - ;Quinta generación; - 
+620;Mienshao;Tipo lucha; - ;Quinta generación; - 
+621;Druddigon;Tipo dragón; - ;Quinta generación; - 
+622;Golett;Tipo tierra;Tipo fantasma;Quinta generación; - 
+623;Golurk;Tipo tierra;Tipo fantasma;Quinta generación; - 
+624;Pawniard;Tipo siniestro;Tipo acero;Quinta generación; - 
+625;Bisharp;Tipo siniestro;Tipo acero;Quinta generación; - 
+626;Bouffalant;Tipo normal; - ;Quinta generación; - 
+627;Rufflet;Tipo normal;Tipo volador;Quinta generación; - 
+628;Braviary;Tipo normal;Tipo volador;Quinta generación; - 
+629;Vullaby;Tipo siniestro;Tipo volador;Quinta generación; - 
+630;Mandibuzz;Tipo siniestro;Tipo volador;Quinta generación; - 
+631;Heatmor;Tipo fuego; - ;Quinta generación; - 
+632;Durant;Tipo bicho;Tipo acero;Quinta generación; - 
+633;Deino;Tipo siniestro;Tipo dragón;Quinta generación; - 
+634;Zweilous;Tipo siniestro;Tipo dragón;Quinta generación; - 
+635;Hydreigon;Tipo siniestro;Tipo dragón;Quinta generación; - 
+636;Larvesta;Tipo bicho;Tipo fuego;Quinta generación; - 
+637;Volcarona;Tipo bicho;Tipo fuego;Quinta generación; - 
+638;Cobalion;Tipo acero;Tipo lucha;Quinta generación; - 
+639;Terrakion;Tipo roca;Tipo lucha;Quinta generación; - 
+640;Virizion;Tipo planta;Tipo lucha;Quinta generación; - 
+641;Tornadus;Tipo volador; - ;Quinta generación; - 
+642;Thundurus;Tipo eléctrico;Tipo volador;Quinta generación; - 
+643;Reshiram;Tipo dragón;Tipo fuego;Quinta generación; - 
+644;Zekrom;Tipo dragón;Tipo eléctrico;Quinta generación; - 
+645;Landorus;Tipo tierra;Tipo volador;Quinta generación; - 
+646;Kyurem;Tipo dragón;Tipo hielo;Quinta generación; - 
+647;Keldeo;Tipo agua;Tipo lucha;Quinta generación; - 
+648;Meloetta;Tipo normal;Tipo psíquico;Quinta generación; - 
+649;Genesect;Tipo bicho;Tipo acero;Quinta generación; - 
+650;Chespin;Tipo planta; - ;Sexta generación; - 
+651;Quilladin;Tipo planta; - ;Sexta generación; - 
+652;Chesnaught;Tipo planta;Tipo lucha;Sexta generación; - 
+653;Fennekin;Tipo fuego; - ;Sexta generación; - 
+654;Braixen;Tipo fuego; - ;Sexta generación; - 
+655;Delphox;Tipo fuego;Tipo psíquico;Sexta generación; - 
+656;Froakie;Tipo agua; - ;Sexta generación; - 
+657;Frogadier;Tipo agua; - ;Sexta generación; - 
+658;Greninja;Tipo agua;Tipo siniestro;Sexta generación; - 
+659;Bunnelby;Tipo normal; - ;Sexta generación; - 
+660;Diggersby;Tipo normal;Tipo tierra;Sexta generación; - 
+661;Fletchling;Tipo normal;Tipo volador;Sexta generación; - 
+662;Fletchinder;Tipo fuego;Tipo volador;Sexta generación; - 
+663;Talonflame;Tipo fuego;Tipo volador;Sexta generación; - 
+664;Scatterbug;Tipo bicho; - ;Sexta generación; - 
+665;Spewpa;Tipo bicho; - ;Sexta generación; - 
+666;Vivillon;Tipo bicho;Tipo volador;Sexta generación; - 
+667;Litleo;Tipo fuego;Tipo normal;Sexta generación; - 
+668;Pyroar;Tipo fuego;Tipo normal;Sexta generación; - 
+669;Flabébé;Tipo hada; - ;Sexta generación; - 
+670;Floette;Tipo hada; - ;Sexta generación; - 
+671;Florges;Tipo hada; - ;Sexta generación; - 
+672;Skiddo;Tipo planta; - ;Sexta generación; - 
+673;Gogoat;Tipo planta; - ;Sexta generación; - 
+674;Pancham;Tipo lucha; - ;Sexta generación; - 
+675;Pangoro;Tipo lucha;Tipo siniestro;Sexta generación; - 
+676;Furfrou;Tipo normal; - ;Sexta generación; - 
+677;Espurr;Tipo psíquico; - ;Sexta generación; - 
+678;Meowstic;Tipo psíquico; - ;Sexta generación; - 
+679;Honedge;Tipo acero;Tipo fantasma;Sexta generación; - 
+680;Doublade;Tipo acero;Tipo fantasma;Sexta generación; - 
+681;Aegislash;Tipo acero;Tipo fantasma;Sexta generación; - 
+682;Spritzee;Tipo hada; - ;Sexta generación; - 
+683;Aromatisse;Tipo hada; - ;Sexta generación; - 
+684;Swirlix;Tipo hada; - ;Sexta generación; - 
+685;Slurpuff;Tipo hada; - ;Sexta generación; - 
+686;Inkay;Tipo siniestro;Tipo psíquico;Sexta generación; - 
+687;Malamar;Tipo siniestro;Tipo psíquico;Sexta generación; - 
+688;Binacle;Tipo roca;Tipo agua;Sexta generación; - 
+689;Barbaracle;Tipo roca;Tipo agua;Sexta generación; - 
+690;Skrelp;Tipo veneno;Tipo agua;Sexta generación; - 
+691;Dragalge;Tipo veneno;Tipo dragón;Sexta generación; - 
+692;Clauncher;Tipo agua; - ;Sexta generación; - 
+693;Clawitzer;Tipo agua; - ;Sexta generación; - 
+694;Helioptile;Tipo eléctrico;Tipo normal;Sexta generación; - 
+695;Heliolisk;Tipo eléctrico;Tipo normal;Sexta generación; - 
+696;Tyrunt;Tipo roca;Tipo dragón;Sexta generación; - 
+697;Tyrantrum;Tipo roca;Tipo dragón;Sexta generación; - 
+698;Amaura;Tipo roca;Tipo hielo;Sexta generación; - 
+699;Aurorus;Tipo roca;Tipo hielo;Sexta generación; - 
+700;Sylveon;Tipo hada; - ;Sexta generación; - 
+701;Hawlucha;Tipo lucha;Tipo volador;Sexta generación; - 
+702;Dedenne;Tipo eléctrico;Tipo hada;Sexta generación; - 
+703;Carbink;Tipo roca;Tipo hada;Sexta generación; - 
+704;Goomy;Tipo dragón; - ;Sexta generación; - 
+705;Sliggoo;Tipo dragón; - ;Sexta generación; - 
+706;Goodra;Tipo dragón; - ;Sexta generación; - 
+707;Klefki;Tipo acero;Tipo hada;Sexta generación; - 
+708;Phantump;Tipo fantasma;Tipo planta;Sexta generación; - 
+709;Trevenant;Tipo fantasma;Tipo planta;Sexta generación; - 
+710;Pumpkaboo;Tipo fantasma;Tipo planta;Sexta generación; - 
+711;Gourgeist;Tipo fantasma;Tipo planta;Sexta generación; - 
+712;Bergmite;Tipo hielo; - ;Sexta generación; - 
+713;Avalugg;Tipo hielo; - ;Sexta generación; - 
+714;Noibat;Tipo volador;Tipo dragón;Sexta generación; - 
+715;Noivern;Tipo volador;Tipo dragón;Sexta generación; - 
+716;Xerneas;Tipo hada; - ;Sexta generación; - 
+717;Yveltal;Tipo siniestro;Tipo volador;Sexta generación; - 
+718;Zygarde;Tipo dragón;Tipo tierra;Sexta generación; - 
+719;Diancie;Tipo roca;Tipo hada;Sexta generación; - 
+720;Hoopa;Tipo psíquico;Tipo fantasma;Sexta generación; - 
+721;Volcanion;Tipo fuego;Tipo agua;Sexta generación; - 
+722;Rowlet;Tipo planta;Tipo volador;Séptima generación; - 
+723;Dartrix;Tipo planta;Tipo volador;Séptima generación; - 
+724;Decidueye;Tipo planta;Tipo fantasma;Séptima generación; - 
+725;Litten;Tipo fuego; - ;Séptima generación; - 
+726;Torracat;Tipo fuego; - ;Séptima generación; - 
+727;Incineroar;Tipo fuego;Tipo siniestro;Séptima generación; - 
+728;Popplio;Tipo agua; - ;Séptima generación; - 
+729;Brionne;Tipo agua; - ;Séptima generación; - 
+730;Primarina;Tipo agua;Tipo hada;Séptima generación; - 
+731;Pikipek;Tipo normal;Tipo volador;Séptima generación; - 
+732;Trumbeak;Tipo normal;Tipo volador;Séptima generación; - 
+733;Toucannon;Tipo normal;Tipo volador;Séptima generación; - 
+734;Yungoos;Tipo normal; - ;Séptima generación; - 
+735;Gumshoos;Tipo normal; - ;Séptima generación; - 
+736;Grubbin;Tipo bicho; - ;Séptima generación; - 
+737;Charjabug;Tipo bicho;Tipo eléctrico;Séptima generación; - 
+738;Vikavolt;Tipo bicho;Tipo eléctrico;Séptima generación; - 
+739;Crabrawler;Tipo lucha; - ;Séptima generación; - 
+740;Crabominable;Tipo lucha;Tipo hielo;Séptima generación; - 
+741;Oricorio;Tipo fuego;Tipo eléctrico;Séptima generación; - 
+742;Cutiefly;Tipo bicho;Tipo hada;Séptima generación; - 
+743;Ribombee;Tipo bicho;Tipo hada;Séptima generación; - 
+744;Rockruff;Tipo roca; - ;Séptima generación; - 
+745;Lycanroc;Tipo roca; - ;Séptima generación; - 
+746;Wishiwashi;Tipo agua; - ;Séptima generación; - 
+747;Mareanie;Tipo veneno;Tipo agua;Séptima generación; - 
+748;Toxapex;Tipo veneno;Tipo agua;Séptima generación; - 
+749;Mudbray;Tipo tierra; - ;Séptima generación; - 
+750;Mudsdale;Tipo tierra; - ;Séptima generación; - 
+751;Dewpider;Tipo agua;Tipo bicho;Séptima generación; - 
+752;Araquanid;Tipo agua;Tipo bicho;Séptima generación; - 
+753;Fomantis;Tipo planta; - ;Séptima generación; - 
+754;Lurantis;Tipo planta; - ;Séptima generación; - 
+755;Morelull;Tipo planta;Tipo hada;Séptima generación; - 
+756;Shiinotic;Tipo planta;Tipo hada;Séptima generación; - 
+757;Salandit;Tipo veneno;Tipo fuego;Séptima generación; - 
+758;Salazzle;Tipo veneno;Tipo fuego;Séptima generación; - 
+759;Stufful;Tipo normal;Tipo lucha;Séptima generación; - 
+760;Bewear;Tipo normal;Tipo lucha;Séptima generación; - 
+761;Bounsweet;Tipo planta; - ;Séptima generación; - 
+762;Steenee;Tipo planta; - ;Séptima generación; - 
+763;Tsareena;Tipo planta; - ;Séptima generación; - 
+764;Comfey;Tipo hada; - ;Séptima generación; - 
+765;Oranguru;Tipo normal;Tipo psíquico;Séptima generación; - 
+766;Passimian;Tipo lucha; - ;Séptima generación; - 
+767;Wimpod;Tipo bicho;Tipo agua;Séptima generación; - 
+768;Golisopod;Tipo bicho;Tipo agua;Séptima generación; - 
+769;Sandygast;Tipo fantasma;Tipo tierra;Séptima generación; - 
+770;Palossand;Tipo fantasma;Tipo tierra;Séptima generación; - 
+771;Pyukumuku;Tipo agua; - ;Séptima generación; - 
+772;Código Cero;Tipo normal; - ;Séptima generación; - 
+773;Silvally;Tipo normal; - ;Séptima generación; - 
+774;Minior;Tipo roca;Tipo volador;Séptima generación; - 
+775;Komala;Tipo normal; - ;Séptima generación; - 
+776;Turtonator;Tipo fuego;Tipo dragón;Séptima generación; - 
+777;Togedemaru;Tipo eléctrico;Tipo acero;Séptima generación; - 
+778;Mimikyu;Tipo fantasma;Tipo hada;Séptima generación; - 
+779;Bruxish;Tipo agua;Tipo psíquico;Séptima generación; - 
+780;Drampa;Tipo normal;Tipo dragón;Séptima generación; - 
+781;Dhelmise;Tipo fantasma;Tipo planta;Séptima generación; - 
+782;Jangmo-o;Tipo dragón; - ;Séptima generación; - 
+783;Hakamo-o;Tipo dragón;Tipo lucha;Séptima generación; - 
+784;Kommo-o;Tipo dragón;Tipo lucha;Séptima generación; - 
+785;Tapu Koko;Tipo eléctrico;Tipo hada;Séptima generación; - 
+786;Tapu Lele;Tipo psíquico;Tipo hada;Séptima generación; - 
+787;Tapu Bulu;Tipo planta;Tipo hada;Séptima generación; - 
+788;Tapu Fini;Tipo agua;Tipo hada;Séptima generación; - 
+789;Cosmog;Tipo psíquico; - ;Séptima generación; - 
+790;Cosmoem;Tipo psíquico; - ;Séptima generación; - 
+791;Solgaleo;Tipo psíquico;Tipo acero;Séptima generación; - 
+792;Lunala;Tipo psíquico;Tipo fantasma;Séptima generación; - 
+793;Nihilego;Tipo roca;Tipo veneno;Séptima generación; - 
+794;Buzzwole;Tipo bicho;Tipo lucha;Séptima generación; - 
+795;Pheromosa;Tipo bicho;Tipo lucha;Séptima generación; - 
+796;Xurkitree;Tipo eléctrico; - ;Séptima generación; - 
+797;Celesteela;Tipo acero;Tipo volador;Séptima generación; - 
+798;Kartana;Tipo planta;Tipo acero;Séptima generación; - 
+799;Guzzlord;Tipo siniestro;Tipo dragón;Séptima generación; - 
+800;Necrozma;Tipo psíquico; - ;Séptima generación; - 
+801;Magearna;Tipo acero;Tipo hada;Séptima generación; - 
+802;Marshadow;Tipo lucha;Tipo fantasma;Séptima generación; - 
+803;Poipole;Tipo veneno; - ;Séptima generación; - 
+804;Naganadel;Tipo veneno;Tipo dragón;Séptima generación; - 
+805;Stakataka;Tipo roca;Tipo acero;Séptima generación; - 
+806;Blacephalon;Tipo fuego;Tipo fantasma;Séptima generación; - 
+807;Zeraora;Tipo eléctrico; - ;Séptima generación; - 
