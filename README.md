@@ -41,14 +41,14 @@ Mitjançant aquest sistema, i aprofitant que tindrem el contingut de la subpàgi
 
 Es mostra el resultat d’executar el codi Python:
 
-![dataset_image](images/Capture3.PNG)
+![pas1_image](images/Capture3.PNG)
 
 Cal tenir en compte els següents passos per poder mostrar correctament la informació en el fitxer .csv. Estic utilitzant Microsoft Office Profesional Plus 2019:
 1.	Obrir el fitxer Llista_Pokemon.csv.
 2.	Accedir al menú -> Datos -> Obtener datos desde texto/csv
 3.	S’obren les carpetes on haurem de seleccionar el fitxer Llista_Pokemon.csv.
 
-![dataset_image](images/Capture1.PNG)
+![pas2_image](images/Capture1.PNG)
 
 4.	Seleccionar en “Origen de archivos”: 65001 Unicode (UTF-8) i “Delimitador”: Coma.
 
@@ -58,7 +58,7 @@ Cal tenir en compte els següents passos per poder mostrar correctament la infor
 5.	Finalment, tindrem aquesta vista:
 
 
-![dataset_image](images/Capture3.PNG)
+![pas3_image](images/Capture3.PNG)
 
 
 # Planificaciói projecte en Github
@@ -88,4 +88,5 @@ S’ha creat un projecte en el repositori Prac1_Pokemon_Web_Scraping de GitHub a
 11.	Afegir al fitxer readme les dades de configuració de l’arxiu d’informació exportat .csv i petites explicacions a tenir en compte.
 
 
+![issues_image](images/issues.PNG)
 
