@@ -11,6 +11,37 @@ urlsub="https://pokemon.fandom.com"
 r=requests.get(url)
 soup=BeautifulSoup(r.content,"lxml")
 
+#Funció que retorna el contingut del fitxer robots.txt de la web
+def get_robots_txt(url):
+        response = requests.get(url+"/robots.txt")
+        robots_file = response.text
+        return robots_file
+
+allowed_robots=[]
+disallowed_robots=[]
+
+#Funció que retorna una llista dels robots permesos
+def allow_robots():
+        robots=get_robots_txt(urlsub)
+        allowed=robots.split('\n')
+        for i in allowed:
+                if(i.__contains__("Allow")):
+                        allowed_robots.append(i.replace('Allow: ',""))
+        return allowed_robots
+
+#Funció que retorna una llista dels robots no permesos
+def disallow_robots():
+        robots=get_robots_txt(urlsub)
+        disallowed=robots.split('\n')
+        for i in disallowed:
+                if(i.__contains__("Disallow")):
+                        disallowed_robots.append(i.replace('Disallow: ',""))
+        return disallowed_robots
+
+#Emmagatzemem en cada llista els robots permessos i els no permessos
+allowed_robots=allow_robots()
+disallowed_robots=disallow_robots()
+
 #Obtenim el títol de la web
 title = soup.title.string
 title=title.split('|')[0]
